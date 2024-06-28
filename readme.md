@@ -1,4 +1,4 @@
-## Anyonymous Code for Paper submission
+## Implementation for PopAlign
 
 
 ### Environment Setup
